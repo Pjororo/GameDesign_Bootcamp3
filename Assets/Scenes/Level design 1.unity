@@ -1422,7 +1422,7 @@ MonoBehaviour:
   - 0
   - 1.5
   laneSwitchSpeed: 10
-  startSpeed: 5
+  startSpeed: 15
   maxSpeed: 20
   speedIncreaseRate: 0.1
   jumpForce: 600
